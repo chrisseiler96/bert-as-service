@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-    <img src=".github/demo.gif?raw=true" width="700">
+    <img src="https://i.gifer.com/9q0v.gif" width="700">
 </p>
 
 <h6 align="center">Made by Han Xiao • :globe_with_meridians: <a href="https://hanxiao.github.io">https://hanxiao.github.io</a></h6>
